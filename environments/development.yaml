@@ -1,0 +1,7 @@
+---
+api_server: 'api.dev.example.com'
+syslog_servers:
+  - 'syslog-1.dev.example.com'
+  - 'syslog-2.dev.example.com'
+hello_world:
+  quux: 'quuz'
