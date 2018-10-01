@@ -1,7 +1,0 @@
----
-api_server: 'api.prod.example.com'
-syslog_servers:
-  - 'syslog-1.prod.example.com'
-  - 'syslog-2.prod.example.com'
-hello_world:
-  foo: 'bar'
