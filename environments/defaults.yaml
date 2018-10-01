@@ -1,0 +1,7 @@
+---
+api_server: 'api.default.example.com'
+syslog_servers:
+  - 'syslog-1.default.example.com'
+  - 'syslog-2.default.example.com'
+hello_world:
+  baz: 'qux'
